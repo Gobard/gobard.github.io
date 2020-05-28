@@ -1,13 +1,41 @@
 h1{
     color:red;
+    text-align: center;
 }
 
 p{
     color:grey;
     font-size: 16px;
+    line-height: normal;
 }
 
 a{
     color:yellowgreen;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 40px;
+
+}
+
+h3{
+    color:burlywood;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#alcim{
+    color:darkorchid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 50px 0 20px 0;
+}
+
+.capital {
+    text-transform: uppercase;
+}
+
+.navigation{
+    background-image: none;
+    width: 400px;
+}
+
+img {
+    float: left;
 }
