@@ -35,7 +35,12 @@ h3{
     background-image: none;
     width: 400px;
 }
+#alma {
+    width: 40%;
+    display: block;
+}
 
-img {
-    float: left;
+img{
+    display: inline;
+    width:60%;
 }
